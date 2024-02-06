@@ -12,3 +12,4 @@ C:\GB\Znakomstvo_s_YAP\Lesson_1\Task1\obj\Debug\net8.0\refint\Task1.dll
 C:\GB\Znakomstvo_s_YAP\Lesson_1\Task1\obj\Debug\net8.0\Task1.pdb
 C:\GB\Znakomstvo_s_YAP\Lesson_1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\GB\Znakomstvo_s_YAP\Lesson_1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\GB\Znakomstvo_s_YAP\Lesson_1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
